@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,cloud.talkatone.com
+DOMAIN-SUFFIX,talkatone.net
+IP-CIDR,104.16.0.0/12
+IP-CIDR,35.144.0.0/14
